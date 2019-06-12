@@ -1,0 +1,2 @@
+# best-nba-rumour-app
+I love basketball even though I don't have the talent to play it.  The NBA has recently become one of the most drama-filled sports in recent history.  This application centralizes all the resources for rumors in the NBA WITH a "BullJive" meter for less likely rumors.  I don't like Bleacher Report and ESPN's reporting so this allows me to build what I want.  I will be using React, Node.js, Express, and MongoDB along with 3rd party services and some new tools.  Hopefully it is fun! Check it out!
